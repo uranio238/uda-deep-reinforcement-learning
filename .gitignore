@@ -1,3 +1,5 @@
 *.exe
 Banana_Data/
 .ipynb_checkpoints/
+*.dll
+unity-environment.log
