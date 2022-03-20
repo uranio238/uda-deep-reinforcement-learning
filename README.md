@@ -37,6 +37,4 @@ The Enviroment will be solved when the Agent scores more than 13 points in avara
 
 # Instruction
 
-if you want to follow along you should downlonad this repo, follow the setup in [this instructions](./Setup.ipynb)
-
-and then train the agent(s) and follow along  [the jupeter notebook](./Main.ipynb)
+if you want to follow along you should downlonad this repo, follow along  [the jupeter notebook](./Main.ipynb)
