@@ -4,7 +4,7 @@
 
 Hi! this repo is about the udacity navigation project where we will learn an agent to go around and get some bananas. more speicifically the yellow bananas, while the blue one must be avoided!
 
-if you want to follow along the first thing you need to do is setup the enviroment by following [this instructions](./Setup.ipynb)
+if you want to follow along the first thing you need to do is setup the enviroment by following [this instructions](./Main.ipynb)
 
 ![collector](start.gif)
 
@@ -34,7 +34,3 @@ The avalible actions are 4:
 # Resolution
 
 The Enviroment will be solved when the Agent scores more than 13 points in avarage over 100 episodes.
-
-# Instruction
-
-if you want to follow along you should downlonad this repo, follow along  [the jupeter notebook](./Main.ipynb)
